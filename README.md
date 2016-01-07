@@ -11,3 +11,6 @@ This is my approach to it. This project contains a C++ File with the programm wh
 
 ## Additions
 If you have more methods to further decrease the spectrum of numbers, please open a Issue or implement the method yourself and do a pull request.
+
+## Solution
+If you don't want to run the program, the only solution is: `6210001000`
